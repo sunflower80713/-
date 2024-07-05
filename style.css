@@ -1,0 +1,57 @@
+body{
+margin: 0;
+}
+h1{ 
+    padding: 10px;
+    margin: 0px; 
+}
+
+.skebede{
+margin: 0px;
+padding: 20px;
+}
+header{
+    height: 200px ;
+    background-color: rgb(211, 0, 0);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 30px;
+
+    background-image: url(download.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+main{
+height: 3210px;
+background-color: aquamarine;
+color: rgb(0, 0, 0);
+text-align: end;
+font-size: 40px;
+display: flex;
+}
+.left{
+width: 50%;
+text-align: center;
+}
+.right{
+    text-align: center;
+    width: 50%;
+}
+footer{
+height: 1488px;
+background-color: black;
+color: blanchedalmond;
+text-align: justify;
+font-size: 50px;
+padding-top: 20px;
+}
+.social img{
+width: 100px;
+padding-left: 10px;
+justify-content: center;
+}
+
+.social{
+    list-style: none;
+}
